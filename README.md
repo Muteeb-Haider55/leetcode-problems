@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0283-move-zeroes) |
+| [1580-shuffle-the-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1833-find-the-highest-altitude) |
