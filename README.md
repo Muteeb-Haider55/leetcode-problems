@@ -20,10 +20,12 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -33,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
