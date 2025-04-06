@@ -58,4 +58,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
