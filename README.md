@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -71,6 +72,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
