@@ -46,6 +46,7 @@
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [2383-add-two-integers](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2383-add-two-integers) |
 ## Counting
 |  |
 | ------- |
