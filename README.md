@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -77,4 +78,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
