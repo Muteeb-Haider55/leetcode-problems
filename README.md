@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0283-move-zeroes) |
 | [1580-shuffle-the-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
