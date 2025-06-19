@@ -1,19 +1,27 @@
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
-        int X=0;
-        for(int i=0; i<operations.size(); i++){
-            if(operations[i]=="X++")
-            X++;
-            else if(operations[i]=="X--")
-            X--;
-            else if(operations[i]=="++X")
-            ++X;
-            else
-            --X;
 
+        int x = 0;
+        
+        /*
+        for (int i = 0; i < operations.size(); i++) {
+            if (operations[i] == "X++" || operations[i] == "++X") {
+                x++;
+
+            } else
+                x--;
         }
-        return X;
+        */
+        // for each loop which is more readable
 
+        for(string op : operations){
+             if (op == "X++" || op == "++X") {
+                x++;
+
+            } else
+                x--;
+        }
+        return x;
     }
 };
