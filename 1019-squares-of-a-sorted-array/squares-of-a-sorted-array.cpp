@@ -1,8 +1,22 @@
 class Solution {
 public:
-    vector<int> sortedSquares(vector<int>& nums) {
-
-        // Using range-based for loop with reference (&)
+    vector<int> sortedSquares(vector<int>& nums) {       
+        int left = 0;
+        int right = nums.size() - 1;
+        int pos = nums.size() - 1;
+        vector<int> result(nums.size());
+        while (left <= right) {
+            if (abs(nums[left]) < abs(nums[right])) {
+                result[pos] = nums[right] * nums[right];
+                right--;
+            } else {
+                result[pos] = nums[left] * nums[left];
+                left++;
+            }
+            pos--;
+        }
+        return result;
+         // Using range-based for loop with reference (&)
         // to modify the original vector in-place.
         /*
         for(auto &num : nums){
@@ -28,20 +42,5 @@ public:
         // return nums;
 
  // usig two pointer approach
-        int left = 0;
-        int right = nums.size() - 1;
-        int pos = nums.size() - 1;
-        vector<int> result(nums.size());
-        while (left <= right) {
-            if (abs(nums[left]) < abs(nums[right])) {
-                result[pos] = nums[right] * nums[right];
-                right--;
-            } else {
-                result[pos] = nums[left] * nums[left];
-                left++;
-            }
-            pos--;
-        }
-        return result;
     }
 };
