@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -70,12 +71,14 @@
 | [0344-reverse-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
