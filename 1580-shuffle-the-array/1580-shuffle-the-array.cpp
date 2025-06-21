@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> shuffle(vector<int>& nums, int n) {
-        int x=0;
-        int y=n;
-        vector <int> res (nums.size());
-        for(int i=0; i < nums.size(); i++){
-            if(i % 2 == 0 ){
-                res[i]=nums[x++];
-            }
-            else
-            res[i] = nums[y++];
+        int m = nums.size();
+        int left = 0;
+        int right = n;
+        vector<int> result(m);
+        for (int i = 0; i < m; i++) {
+            if (i % 2 == 0) {
+                result[i] = (nums[left++]);
+            } else
+                result[i] = (nums[right++]);
         }
-        return res;
 
+        return result;
     }
 };
