@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
