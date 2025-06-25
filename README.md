@@ -35,6 +35,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
