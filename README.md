@@ -33,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0812-rotate-string) |
@@ -79,6 +80,7 @@
 | [0283-move-zeroes](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
