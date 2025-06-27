@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -54,6 +55,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
@@ -64,6 +66,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -91,6 +94,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -112,6 +116,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,4 +135,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
