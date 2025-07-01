@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@
 | [0001-two-sum](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
@@ -85,6 +87,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
@@ -104,6 +107,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
@@ -161,4 +165,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
