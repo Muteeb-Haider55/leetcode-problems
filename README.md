@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1580-shuffle-the-array) |
@@ -47,6 +48,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0812-rotate-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -73,6 +75,7 @@
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -95,6 +98,7 @@
 | [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
