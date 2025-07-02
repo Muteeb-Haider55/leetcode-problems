@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0344-reverse-string) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
@@ -110,6 +113,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0229-majority-element-ii) |
