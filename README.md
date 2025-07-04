@@ -91,6 +91,7 @@
 | [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2383-add-two-integers) |
@@ -145,6 +146,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
