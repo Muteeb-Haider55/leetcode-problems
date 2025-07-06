@@ -53,6 +53,7 @@
 | [1472-increasing-decreasing-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1472-increasing-decreasing-string) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2128-reverse-prefix-of-word](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2502-sort-the-people) |
 ## Simulation
@@ -120,6 +121,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [2128-reverse-prefix-of-word](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
