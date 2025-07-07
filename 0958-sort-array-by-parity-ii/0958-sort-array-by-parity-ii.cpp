@@ -13,8 +13,6 @@ public:
             if (odd < nums.size() && even < nums.size() &&
                 nums[even] % 2 != 0 && nums[odd] % 2 == 0) {
                 swap(nums[even], nums[odd]);
-                even += 2;
-                odd += 2;
             }
         }
         return nums;
