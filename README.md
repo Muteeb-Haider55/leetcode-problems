@@ -18,6 +18,7 @@
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0941-sort-array-by-parity](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -121,6 +122,7 @@
 | [0392-is-subsequence](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -136,6 +138,7 @@
 | [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2502-sort-the-people](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2502-sort-the-people) |
 ## Linked List
