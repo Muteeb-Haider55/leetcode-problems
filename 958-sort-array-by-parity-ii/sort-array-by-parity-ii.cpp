@@ -4,7 +4,7 @@ public:
         int even = 0;
         int odd = 1;
         while (odd < nums.size() && even < nums.size()) {
-            while (even < nums.size() - 1 && nums[even] % 2 == 0) {
+            while (even < nums.size() && nums[even] % 2 == 0) {
                 even += 2;
             }
             while (odd < nums.size() && nums[odd] % 2 != 0) {
