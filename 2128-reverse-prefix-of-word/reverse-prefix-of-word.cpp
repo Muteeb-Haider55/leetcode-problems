@@ -1,7 +1,22 @@
 class Solution {
 public:
     string reversePrefix(string word, char ch) {
-        string res;
+    int left =0;
+    int right = 0;
+
+        for(int i =0;i<word.size();i++){
+            if(word[i]==ch){
+                right = i;
+                break;
+            }
+        }
+        while(left<right){
+            swap(word[left], word[right]);
+            left++;
+            right--;
+        }
+        return word;
+        /*string res;
         int right = -1;
         for (int i = 0; i < word.size(); i++) {
             if (word[i] == ch) {
@@ -21,5 +36,6 @@ public:
         if (res.empty())
             return word;
         return res;
+        */
     }
 };
