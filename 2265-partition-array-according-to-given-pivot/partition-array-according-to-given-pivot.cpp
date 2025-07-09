@@ -26,3 +26,7 @@ public:
         return res;
     }
 };
+//Second Method
+// 1. Reverse the entire array
+// 2. Reverse first k elements
+// 3. Reverse remaining n-k elements
