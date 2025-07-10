@@ -16,14 +16,14 @@ public:
         int left = 0;
         int right = s.size() - 1;
         while (left < right) {
-            if (left < right && s[left] != s[right]) 
-                return isPalindrom(left + 1, right, s)||
-                        isPalindrom(left, right - 1, s);
-             else{
-            left++;
-            right--;
+            if (left < right && s[left] != s[right])
+                return isPalindrom(left + 1, right, s) ||
+                       isPalindrom(left, right - 1, s);
+            else {
+                left++;
+                right--;
+            }
         }
-    }
-     return true;
+        return true;
     }
 };
