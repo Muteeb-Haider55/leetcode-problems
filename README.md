@@ -55,6 +55,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1472-increasing-decreasing-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1472-increasing-decreasing-string) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
@@ -220,4 +222,5 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
