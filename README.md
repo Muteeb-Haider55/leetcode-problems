@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -223,4 +224,8 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
