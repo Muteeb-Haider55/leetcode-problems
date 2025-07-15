@@ -58,6 +58,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1472-increasing-decreasing-string) |
 | [1666-make-the-string-great](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
@@ -191,6 +192,7 @@
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
