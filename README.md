@@ -189,6 +189,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -232,4 +233,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
