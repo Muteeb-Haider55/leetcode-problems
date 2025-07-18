@@ -239,10 +239,16 @@
 | [0155-min-stack](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
