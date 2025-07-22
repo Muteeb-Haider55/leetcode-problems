@@ -35,6 +35,7 @@
 | [2502-sort-the-people](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [2502-sort-the-people](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0206-reverse-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
