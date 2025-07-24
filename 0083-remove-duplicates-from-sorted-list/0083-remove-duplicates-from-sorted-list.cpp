@@ -24,3 +24,4 @@ public:
         return head;
     }
 };
+// recursive approach
