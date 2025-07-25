@@ -105,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0268-missing-number) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0231-power-of-two) |
