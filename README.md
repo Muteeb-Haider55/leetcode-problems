@@ -65,6 +65,7 @@
 | [1666-make-the-string-great](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2502-sort-the-people) |
@@ -99,6 +100,7 @@
 | [1472-increasing-decreasing-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -124,6 +126,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1472-increasing-decreasing-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -263,4 +266,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0969-number-of-recent-calls) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
