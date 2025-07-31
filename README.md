@@ -63,6 +63,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1472-increasing-decreasing-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1472-increasing-decreasing-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -272,5 +273,6 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
