@@ -56,6 +56,7 @@
 | [0392-is-subsequence](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0812-rotate-string) |
@@ -97,6 +98,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -146,6 +148,7 @@
 | [0344-reverse-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0941-sort-array-by-parity) |
@@ -277,6 +280,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Muteeb-Haider55/leetcode-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Queue
